@@ -13,7 +13,7 @@ To use the project, follow these steps:
 >Ensure that you have Python installed on your system. You can download and install Python from the official Python website.
 
 > Clone the repository to your local machine:
-  "git clone https://github.com/your-username/project-name.git"
+  "git clone https://github.com/nirjon97/movie_rating_system_api.git"
 
 > Navigate to the project directory:
    "cd project-name"
